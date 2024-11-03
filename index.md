@@ -1,7 +1,7 @@
 GitHub Pages sivuni, jossa uusi Jekyll teema
 ## Tervetuloa GitHub Pages-sivustolleni!
 Täältä löydät tehtäväpalautukset
-- [Viikko 1](index.html)
+- [Viikko 1](viikko1.html)
 - [Viikko 2](viikko2.md)
 - Viikko 3
 - Viikko 4
